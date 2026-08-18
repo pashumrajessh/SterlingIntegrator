@@ -1,0 +1,12 @@
+<root>
+  <header>
+    <customer>
+      <custnum>MORTEL</custnum>
+    </customer>
+  </header>
+  <detail>
+    <item>
+      <uom>EA</uom>
+    </item>
+  </detail>
+</root>

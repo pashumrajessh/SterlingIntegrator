@@ -1,0 +1,1 @@
+echo.y|del c:\inbound_from_comms\*.*

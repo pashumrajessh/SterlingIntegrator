@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cookbook title="Easy Dinners My Kids Will Actually Eat">
+     <notes>These are real recipes</notes>
+	<recipe name="Shrimp Scampi">
+		<ingredient>1 lb peeled, deveined shrimp</ingredient>
+		<ingredient>.5 cups melted butter</ingredient>
+		<ingredient>.5 cups vegetable oil</ingredient>
+		<ingredient>1 clove garlic, minced</ingredient>
+		<ingredient>1 tblsp lemon juice</ingredient>
+		<ingredient>dash cayenne pepper</ingredient>
+		<notes info="cooking">Toss ingredients together and broil for 10
+ minutes or until shrimp are cooked, stirring often.</notes>
+		<sides>Rice or buttered noodles</sides>
+	</recipe>
+	<recipe name="Taco Pie">
+		<ingredient>1 lb. Lean ground beef</ingredient>
+		<ingredient>1 pkg. Corn bread or corn muffin mix</ingredient>
+			<notes>Prepare as indicated on package</notes>
+		<ingredient>1 pkt taco seasoning</ingredient>
+<notes>Following instructions on seasoning pkt to prepare taco 
+             beef.</notes>
+		<ingredient>2 cups shredded cheddar cheese</ingredient>
+<notes info="cooking">Spread prepared beef in casserole dish. Blanket
+with cheese. Cover with corn bread batter. Bake at 350 for 30 minutes, or until cornbread is done.</notes>
+		<sides>salad, fruit cocktail, etc</sides>
+</recipe>
+	<ingredient>Sprig of parsley for garnish.</ingredient>
+	<ingredient reason="just to make their eyes water">dash cayenne pepper</ingredient>
+</cookbook>

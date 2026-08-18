@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+  <INVOICE partner="MAXXMART" transaction="INVOICE" version="1.0">
+  	<Header>
+		<Partner>MAXXMART</Partner>
+		<Transaction>INVOICE</Transaction>
+  		<PODate>20021018</PODate> 
+	  	<PONumber>1001</PONumber>
+		<InvoiceDate>20021025</InvoiceDate>
+		<InvoiceNumber>95154</InvoiceNumber> 
+		<BillOfLading>12345</BillOfLading>	
+		  <ShipDate>20020520</ShipDate> 
+  	 	<ShipTo>
+		  <Name>MAXXMART</Name> 
+		  <Street>3000 MAXX DR</Street> 
+		  <City>MAXXTOWN</City> 
+		  <State>NY</State> 
+		  <ZipCode>65435</ZipCode> 
+	        </ShipTo>
+	        <RemitTo>
+		  <Name>MAXXMART</Name> 
+		  <Street>5678 CORPORATE DR</Street> 
+		  <City>LOS ANGELES</City> 
+		  <State>CA</State> 
+	        </RemitTo>
+		<TermsOfSale>
+		  <DiscountPercent>2</DiscountPercent>
+		  <DiscountDaysDue>10</DiscountDaysDue>	
+		  <TermsNetDays>30</TermsNetDays>
+		</TermsOfSale>
+	  </Header>
+	  <LineItem>
+		  <AssignedIdentification>2</AssignedIdentification> 
+		  <QuantityShipped>10</QuantityShipped>	
+		  <QuantityOrdered>10</QuantityOrdered> 
+		  <UOM>Dozen</UOM> 
+		  <UnitPrice>60.0</UnitPrice> 
+		  <ProductCode>RBC1234L</ProductCode> 
+		  <UPCCode>RAB00102</UPCCode> 
+		  <ItemDescription>RED BASIC COLLAR LARGE</ItemDescription> 
+		  </LineItem>
+	  <LineItem>
+		  <AssignedIdentification>3</AssignedIdentification> 
+		  <QuantityShipped>15</QuantityShipped> 
+		  <QuantityOrdered>15</QuantityOrdered>
+		  <UOM>Dozen</UOM> 
+		  <UnitPrice>56.0</UnitPrice> 
+		  <ProductCode>RBC1234M</ProductCode> 
+		  <UPCCode>RAB00104</UPCCode> 
+		  <ItemDescription>RED BASIC COLLAR MEDIUM</ItemDescription> 
+	  </LineItem>
+	  <LineItem>
+		  <AssignedIdentification>4</AssignedIdentification> 
+		  <QuantityShipped>20</QuantityShipped> 
+		  <QuantityOrdered>20</QuantityOrdered>
+		  <UOM>Case</UOM> 
+		  <UnitPrice>48.0</UnitPrice> 
+		  <ProductCode>RBC1234S</ProductCode> 
+		  <UPCCode>RAB00106</UPCCode> 
+		  <ItemDescription>RED BASIC COLLAR SMALL</ItemDescription> 
+	  </LineItem>
+	  <LineItem>
+		  <AssignedIdentification>5</AssignedIdentification> 
+		  <QuantityShipped>25</QuantityShipped> 
+		  <QuantityOrdered>25</QuantityOrdered>
+		  <UOM>Each</UOM> 
+		  <UnitPrice>60.0</UnitPrice> 
+		  <ProductCode>CNMN456L</ProductCode> 
+		  <UPCCode>RAB00108</UPCCode> 
+		  <ItemDescription>CALCIUM DOG TREAT LARGE</ItemDescription> 
+	  </LineItem>
+	  <LineItem>
+		  <AssignedIdentification>6</AssignedIdentification> 
+		  <QuantityShipped>30</QuantityShipped>
+		  <QuantityOrdered>30</QuantityOrdered> 
+		  <UOM>Case</UOM> 
+		  <UnitPrice>56.0</UnitPrice> 
+		  <ProductCode>CNMN456M</ProductCode> 
+		  <UPCCode>RAB00110</UPCCode> 
+		  <ItemDescription>CALCIUM DOG TREAT MEDIUM</ItemDescription> 
+	  </LineItem>
+	  <LineItem>
+		  <AssignedIdentification>7</AssignedIdentification> 
+		  <QuantityShipped>30</QuantityShipped>
+		  <QuantityOrdered>30</QuantityOrdered> 
+		  <UOM>Dozen</UOM> 
+		  <UnitPrice>48.0</UnitPrice> 
+		  <ProductCode>CNMN456S</ProductCode> 
+		  <UPCCode>RAB00112</UPCCode> 
+		  <ItemDescription>CALCIUM DOG TREAT SMALL</ItemDescription> 
+	  </LineItem>
+	  <LineItem>
+		  <AssignedIdentification>8</AssignedIdentification> 
+		  <QuantityShipped>25</QuantityShipped> 
+		  <QuantityOrdered>25</QuantityOrdered>
+		  <UOM>Dozen</UOM> 
+		  <UnitPrice>60.0</UnitPrice> 
+		  <ProductCode>VAN0789L</ProductCode> 
+		  <UPCCode>RAB00114</UPCCode> 
+		  <ItemDescription>VANILLA COLLAR LARGE</ItemDescription> 
+	  </LineItem>
+	  <LineItem>
+		  <AssignedIdentification>9</AssignedIdentification> 
+		  <QuantityShipped>20</QuantityShipped>
+		  <QuantityOrdered>20</QuantityOrdered> 
+		  <UOM>Dozen</UOM> 
+		  <UnitPrice>56.0</UnitPrice> 
+		  <ProductCode>VAN0789M</ProductCode> 
+		  <UPCCode>RAB00116</UPCCode> 
+		  <ItemDescription>VANILLA COLLAR SMALL</ItemDescription> 
+	  </LineItem>
+	  <LineItem>
+		  <AssignedIdentification>10</AssignedIdentification> 
+		  <QuantityShipped>15</QuantityShipped>
+		  <QuantityOrdered>15</QuantityOrdered> 
+		  <UOM>Dozen</UOM> 
+		  <UnitPrice>48.0</UnitPrice> 
+		  <ProductCode>VAN0789S</ProductCode> 
+		  <UPCCode>RAB00118</UPCCode> 
+		  <ItemDescription>VANILLA COLLAR SMALL</ItemDescription> 
+	  </LineItem>
+	  <LineItem>
+		  <AssignedIdentification>11</AssignedIdentification> 
+		  <QuantityShipped>10</QuantityShipped>
+		  <QuantityOrdered>10</QuantityOrdered> 
+		  <UOM>Dozen</UOM> 
+		  <UnitPrice>60.0</UnitPrice> 
+		  <ProductCode>STRSREDL</ProductCode> 
+		  <UPCCode>RAB00120</UPCCode> 
+		  <ItemDescription>STRESS REDUCTION LARGE</ItemDescription> 
+	  </LineItem>
+
+	  <Summary>
+  		<TotalInvoiceAmount>10960</TotalInvoiceAmount> 
+		  <NumberOfLineItems>10</NumberOfLineItems> 
+	  </Summary>
+  </INVOICE>

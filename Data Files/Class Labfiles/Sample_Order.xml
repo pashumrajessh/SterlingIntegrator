@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+   <Purchase_Order>
+	<!-- This is a purchase order for 3 order lines -->
+	<Ord_Date>02-20-2012</Ord_Date>
+	<Ord_Num>DRE9354</Ord_Num>
+	<Ship_Date>3-1-2012</Ship_Date>
+	<Line_Items>
+		<Item LI="1">
+			<Part_Num>123RBC</Part_Num>
+			<Qty>10</Qty>
+			<Price>2.00</Price>
+		</Item>
+		<Item LI="2">
+			<Part_Num>456RBC</Part_Num>
+			<Qty>1</Qty>
+			<Price>10.00</Price>
+		</Item>
+		<Item LI="3">
+			<Part_Num>GRNWIDGL</Part_Num>
+			<Qty>2</Qty>
+			<Price>5.00</Price>
+		</Item>
+		<!-- Item counter starts -->
+			<ItemSplit_1>http://www.supplier1.com</ItemSplit_1>
+			<ItemSplit_2>http://www.supplier2.com</ItemSplit_2>
+			<ItemSplit_3>http://www.supplier3.com</ItemSplit_3>
+			<count>2</count>
+		<!-- Item counter ends -->
+
+	</Line_Items>
+   </Purchase_Order>

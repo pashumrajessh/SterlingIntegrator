@@ -1,0 +1,5 @@
+NAM Widgets_R_Us
+ADR Somewhere USA
+LI  WX2419     22.12
+LI  WX2219     124.39
+LI  WX2679     2.16

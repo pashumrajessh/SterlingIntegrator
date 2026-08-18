@@ -1,0 +1,4 @@
+NAM Roadkill Diner
+ADR US RTE 40
+LI  RD1234     12.34
+LI  RD5678     56.78

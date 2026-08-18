@@ -1,0 +1,18 @@
+<INVENTORY>
+   <CUST_ID>My Little Store</CUST_ID>
+        <PRODUCT>
+		<QTY>3</QTY>
+		<ITEM>Gizmo A</ITEM>
+		<PRICE>1</PRICE>
+	</PRODUCT>
+	<PRODUCT>
+		<QTY>6</QTY>
+		<ITEM>Gizmo B</ITEM>
+		<PRICE>2</PRICE>
+	</PRODUCT>
+	<PRODUCT>
+		<QTY>9</QTY>
+		<ITEM>Gizmo C</ITEM>
+		<PRICE>4</PRICE>
+	</PRODUCT>
+</INVENTORY>
